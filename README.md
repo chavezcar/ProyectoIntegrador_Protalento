@@ -18,3 +18,11 @@ El desarrollo de este proyecto está planeado en 5 fases de entrega, teniendo en
 1. PI_parte1_main.py
 2. Readme.md
 ------------
+
+##### Proyecto Integrador - Entrega No. 2:
+- Instalar la librería: https://pypi.org/project/readchar/.
+- Escribir un programa que corra un bucle infinito leyendo e imprimiento las teclas y sólo terminará cuando se presione la tecla ↑ indicada como UP.
+
+###### Archivos de la Entrega No. 2:
+1. PI_parte2_bucleTeclas.py
+------------
