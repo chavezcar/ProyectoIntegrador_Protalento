@@ -26,3 +26,11 @@ El desarrollo de este proyecto está planeado en 5 fases de entrega, teniendo en
 ###### Archivos de la Entrega No. 2:
 1. PI_parte2_bucleTeclas.py
 ------------
+
+##### Proyecto Integrador - Entrega No. 3:
+- Aprender a utilizar la instrucción "os.system('cls' if os.name=='nt' else 'clear')" con el fin de borrar la terminar e imprimir nuevo contenido.
+- Escribir un programa que inicie con el número en 0, el usuario deberá pulsar la tecla `n` por consola y por cada 'n' presionada, el programa deberá borrar la terminal e imprimir el nuevo número hasta llegar al número 50.
+
+###### Archivos de la Entrega No. 3:
+1. PI_parte3_borrarTerminal.py
+------------
