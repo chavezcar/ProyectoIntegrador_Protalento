@@ -34,3 +34,12 @@ El desarrollo de este proyecto está planeado en 5 fases de entrega, teniendo en
 ###### Archivos de la Entrega No. 3:
 1. PI_parte3_borrarTerminal.py
 ------------
+
+##### Proyecto Integrador - Entrega No. 4:
+- Implementar una función que reciba el mapa de un laberinto en forma de cadena, y lo convierta a matriz de caracteres. El mapa viene dado dentro de las especificaciones del proyecto como una cadena de string y se encuentra asignado a la variable "laberinto"
+- Escribir una función que limpie la pantalla y muestre la matriz (recibe el mapa en forma de matriz).
+- Implementar el main loop en una función (recibe el mapa en forma de matriz).
+
+###### Archivos de la Entrega No. 4:
+1. PI_parte4_mostrarMapa.py
+------------
