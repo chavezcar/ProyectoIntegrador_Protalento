@@ -36,10 +36,19 @@ El desarrollo de este proyecto está planeado en 5 fases de entrega, teniendo en
 ------------
 
 ##### Proyecto Integrador - Entrega No. 4:
-- Implementar una función que reciba el mapa de un laberinto en forma de cadena, y lo convierta a matriz de caracteres. El mapa viene dado dentro de las especificaciones del proyecto como una cadena de string y se encuentra asignado a la variable "laberinto"
+- Implementar una función que reciba el mapa de un laberinto en forma de cadena, y lo convierta a matriz de caracteres. El mapa viene dado dentro de las especificaciones del proyecto como una cadena de string y se encuentra asignado a la variable "laberinto".
 - Escribir una función que limpie la pantalla y muestre la matriz (recibe el mapa en forma de matriz).
 - Implementar el main loop en una función (recibe el mapa en forma de matriz).
 
 ###### Archivos de la Entrega No. 4:
 1. PI_parte4_mostrarMapa.py
+------------
+
+##### Proyecto Integrador - Entrega No. 5:
+- Crear una nueva clase JuegoArchivo la cual hereda de Juego.
+- Reescribir el constructor para leer un archivo al azar de una carpeta que contenga los mapas cada vez que se instancia el juego.
+- Crear un método que lea los datos de estos archivos de mapa y devuelva una cadena que tenga concatenada todas las filas leídas del mapa y las coordenadas de inicio y fin. Al final de la lectura antes de retornar usar cadena.strip() para eliminar caracteres en blanco residuales.
+
+###### Archivos de la Entrega No. 5:
+1. PI_parte5_borradorJuego.py
 ------------
