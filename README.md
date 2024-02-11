@@ -51,4 +51,13 @@ El desarrollo de este proyecto está planeado en 5 fases de entrega, teniendo en
 
 ###### Archivos de la Entrega No. 5:
 1. PI_parte5_borradorJuego.py
+2. map1.txt
+3. map2.txt
+------------
+
+##### Proyecto Integrador - Entrega Extra (Módulo 9):
+- Revisión encapsulamiento en clases del Juego y lectura de mapas aleatorios.
+
+###### Archivos de la Entrega No. 5:
+1. PI_Extra_Laberinto.py
 ------------
